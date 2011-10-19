@@ -1,0 +1,7 @@
+[user]
+	name = Pete
+	email = pete@mortalmist.com
+[alias]
+	co = checkout
+[core]
+	editor = gedit
